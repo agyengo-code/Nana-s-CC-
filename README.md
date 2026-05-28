@@ -1,4 +1,4 @@
-<h1 align="center">💳 CC Generator</h1>
+<h1 align="center">💳 Nana' CC </h1>
 <p align="center">
   <p align="center">
     <i>A modern credit card generator with advanced BIN support and fake user details generator for educational and testing purposes</i>
@@ -26,6 +26,6 @@ This project is licensed under the MIT License.
 
 **⭐ Star this repo if you found it helpful!**
 
-Made with ❤️ by [Avishkar Patil](https://github.com/avipatilpro)
+Made with ❤️ by [Agyengo]
 
 </div>
